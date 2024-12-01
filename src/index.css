@@ -1,0 +1,19 @@
+.game-container {
+  text-align: center;
+  
+}
+
+.choices button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  color: black;
+  background-color: rgb(161, 190, 223);
+  border-radius: 10px;
+  font-style: italic;
+}
+body{
+  background-color: rgb(255, 127, 249);
+  
+}
